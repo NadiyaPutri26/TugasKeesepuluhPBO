@@ -1,4 +1,4 @@
-# TugasKeesepuluhPBO
+# TugasKedelapanPBO
 Praktikum ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Berorientasi Objek (PBO) dengan dosen pengampu: Bapak Bayu Adhi Nugroho, Ph. D.
 
 Di mana dalam praktikum ini akan menerapkan pemindahan file CSV ke Netbeans. File CSV adalah format file berbasis teks yang digunakan untuk menyimpan data dalam bentuk tabel sederhana, di mana setiap baris merepresentasikan satu _record_ (data) dan setiap kolom dalam baris tersebut dipisahkan oleh titik koma (;). Dan dalam praktikum ini file CSV akan dipindahkan ke Netbeans untuk menambahkan data dalam tabel _database_ jika data tersebut adalah file eksternal, penerapannya sendiri dengan menambahkan _Button_ "Upload" pada JAVA GUI utama yakni "TokoBunga".
